@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="rQ3JJfTI6pVwj6ZATwo9">
+    <mxGraphModel dx="1009" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-3" edge="1" parent="1" source="Tk1JowJ4VnKwC3VD2216-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Tk1JowJ4VnKwC3VD2216-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Inicio&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="106" x="382" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-6" edge="1" parent="1" source="Tk1JowJ4VnKwC3VD2216-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Tk1JowJ4VnKwC3VD2216-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-2" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="produto" vertex="1">
+          <mxGeometry height="60" width="190" x="340" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-10" edge="1" parent="1" source="Tk1JowJ4VnKwC3VD2216-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Tk1JowJ4VnKwC3VD2216-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-4" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="precoInicial, desconto" vertex="1">
+          <mxGeometry height="60" width="190" x="340" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-12" edge="1" parent="1" source="Tk1JowJ4VnKwC3VD2216-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Tk1JowJ4VnKwC3VD2216-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="precoFinal ← precoInicial ← desconto" vertex="1">
+          <mxGeometry height="50" width="220" x="325" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-14" edge="1" parent="1" source="Tk1JowJ4VnKwC3VD2216-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Tk1JowJ4VnKwC3VD2216-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="produto, precoInicial,&lt;div&gt;precoFinal&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="385" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk1JowJ4VnKwC3VD2216-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="fim" vertex="1">
+          <mxGeometry height="60" width="100" x="382" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
